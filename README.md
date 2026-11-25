@@ -19,36 +19,34 @@ Zo ziet het er op Deskttop uit:
 Zo ziet het er op Mobile uit:
 <img width="372" height="796" alt="image" src="https://github.com/user-attachments/assets/3b75b967-4d53-4417-ac19-1af4ce753f5c" />
 
-
-
 ## Kenmerken
-Bij 'Kenmerken' staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met JavaScript gedaan en hoe? Wat zijn je conventies? Misschien heb je een framework of library gebruikt? Dit kun je allemaal hier opschrijven.
-<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
-Kenmerken
 HTML-structuur
 De pagina is opgebouwd met semantische HTML:
 
+Html van de veldverkenner
 <header> — de titel "Veldverkenner"
 <main> — de hoofdcontent (kaart, zones)
 <footer> — de navigatie onderaan
+
+Html van de Index
+<header> — de titel "Home"
+<main> — de hoofdcontent (Het nieuws, veldverkenner (wat er allemaal op de site te zien is))
+<footer> — de navigatie onderaan
+
+Html van het nieuws
+<header> — de titel "Nieuws"
+<main> — de hoofdcontent (Het nieuws)
+<footer> — de navigatie onderaan
+
+Html van de collectie
+<header> — de titel "Collectie"
+<main> — de hoofdcontent (Collectie)
+<footer> — de navigatie onderaan
+
 CSS
 In de CSS heb ik de volgende technieken gebruikt:
-
-Flexbox en grid
-
-
-# Titel
-<!-- Geef je project een titel en schrijf in één zin wat het is -->
-
-## Beschrijving
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
-<!-- Voeg een mooie poster visual toe 📸 -->
-<!-- Voeg een link toe naar Github Pages 🌐-->
-
-## Kenmerken
-<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
-
-## Bronnen
+Flexbox en grid.
+Daarnaast heb ik de Stylesheet gebruikt voor mijn website
 
 ## Licentie
 
